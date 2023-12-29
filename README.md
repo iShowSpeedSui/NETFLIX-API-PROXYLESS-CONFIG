@@ -1,10 +1,13 @@
-
-
 **### A Netflix Api Config made with love <3 by https://t.me/svbconfigmaker**
 
 ### **Config is proxyless meaning no need for proxies**
 ### **Just use a VPN like Cyberghost or surfshark**
 ### **Any VPN that has Streaming netflix servers UK, US, FR, DE etc etc** 
+
+**The config also autosave login cookies**
+**After you get hits, back out to the main SilverBullet folder you will see a** `Netflix Results.txt`
+You will need a special **JSON template file** to replace the cookies.
+I've covered that in a video posted on my Telegram channel - **[WATCH VIDEO](https://t.me/configscombos2023/2321)**
 
 **### Who am I ?**
 **i am specialist in config making, debugging apps whther its android or ios apps
@@ -18,7 +21,7 @@ TLS , SSL, Cloudflare and hCaptcha inside Stripe gateway and many more...**
 **You will need of SilverBullet to use this Config file**
 [Download SilverBullet 1.1.3](https://t.me/configscombos2023/185)
 
-### **Join us on Telegram for more configs**- [](https://t.me/configscombos2023)
+### **Join us on Telegram for more configs**- [https://t.me/configscombos2023](https://t.me/configscombos2023)
 
 
 
@@ -58,4 +61,4 @@ TLS , SSL, Cloudflare and hCaptcha inside Stripe gateway and many more...**
 **You will need of SilverBullet to use this Config file**
 [Download SilverBullet 1.1.3](https://t.me/configscombos2023/185)
 
-### **Join us on Telegram for more configs**- [](https://t.me/configscombos2023)
+### **Join us on Telegram for more configs**- [https://t.me/configscombos2023](https://t.me/configscombos2023)
